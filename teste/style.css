@@ -1,0 +1,17 @@
+
+
+#img_circular {
+    border-radius: 50px;
+}
+
+#img_bip{
+    border-radius: 200px;
+}
+
+#img_fotos{
+    max-width: 300px;
+    max-height: 300px;
+    object-fit: cover;
+    border-radius: 15px;
+}
+
